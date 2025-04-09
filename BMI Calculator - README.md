@@ -7,5 +7,5 @@ A simple Python program to calculate and classify Body Mass Index (BMI) using us
 - Categories BMI as Underweight, Normal, Overweight, or obese
 - Clean functional structure with exception handling
 
-Tech Stack
+# Tech Stack
 - Python (Standard Library)
